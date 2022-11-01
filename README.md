@@ -7,6 +7,16 @@
    
    ##
    
+   #
+
+<div align="center">
+  <a href="https://github.com/LailaMaria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LailaMaria&theme=omni&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LailaMaria&layout=compact&langs_count=7&theme=omni"/>
+</div>
+
+# 
+   
 <div style="display: inline_block" align="center"><br>
   
   <img align="center" alt="Laila-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -36,7 +46,7 @@
   
  <a href = "lailasouzza18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LailaMaria/LailaMaria/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!---
