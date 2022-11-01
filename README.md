@@ -44,7 +44,7 @@
   
  <a href="https://www.linkedin.com/in/lailamariavs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
- <a href = "lailasouzza18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href = "mailto:lailasouzza18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ![Snake animation](https://github.com/LailaMaria/LailaMaria/blob/output/github-contribution-grid-snake.svg)
 </div>
