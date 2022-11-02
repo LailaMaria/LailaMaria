@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/LailaMaria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LailaMaria&theme=omni&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LailaMaria&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LailaMaria&theme=moltack&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LailaMaria&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
 # 
